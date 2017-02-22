@@ -5,7 +5,7 @@ int main(int argc, char *argv[])
 {
 	printf("http\n");
 
-//	for(;;);
+	for(;;);
 
 	return 0;
 }
